@@ -23,6 +23,6 @@ git add dist && git commit -m "Initial dist subtree commit"
 ```
 8. Run the command
 ```
-it subtree push --prefix dist origin gh-pages
+git subtree push --prefix dist origin gh-pages
 ```
 
